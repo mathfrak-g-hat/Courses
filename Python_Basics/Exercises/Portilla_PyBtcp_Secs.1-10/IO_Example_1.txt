@@ -1,0 +1,2 @@
+Example of .write() in Python
+ Will also work with csv and avi files for instance

@@ -1,0 +1,2 @@
+model_checkpoint_path: "MNIST_ANN_Weights.ckpt"
+all_model_checkpoint_paths: "MNIST_ANN_Weights.ckpt"
